@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentsave",
+        "uuid": 5806400,
+        "checksum": "myvyz"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
